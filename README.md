@@ -5,7 +5,7 @@ Analyze City  weather data for different cities to help a travel website
 Task: Collect and analyze weather data across cities worldwide.
 Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
 
-## Data
+### Data
 To collect the following data from the JSON file and add it to a DataFrame:
 City, country, and date, Latitude and longitude, Maximum temperature, Humidity, Cloudiness, Wind speed.
 
